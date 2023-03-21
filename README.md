@@ -21,5 +21,5 @@ Estudante de Ciências Econômicas na UFRJ e analista de Operações na Impactus
 - [Exposição, trade e construção da curva DI](https://docs.google.com/spreadsheets/d/1C3kOhTK0HFinVoogAO2xuLa_7nPJeP4H1UzGv__Vo-8/edit?usp=sharing)
 - [Precificação de LFT, NTN-B e NTN-F](https://docs.google.com/spreadsheets/d/14sCqEKYlEKQOLUqk0u-S4_VIGPfVnOpD/edit?usp=sharing&ouid=104193380774637208810&rtpof=true&sd=true)
 
-## E-mail para contato: 
+## E-mail para contato 
 - eduardorabelloalexandre@gmail.com
