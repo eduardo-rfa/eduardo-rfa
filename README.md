@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eduardo.alexandre_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alexandre-92017b256/)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-rfa&show_icons=true&theme=transparent)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-rfa&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
