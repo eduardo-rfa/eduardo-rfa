@@ -120,7 +120,7 @@ for x in range(len(df)): #range(len(df)) é usada para percorrer todas as linhas
         pass
 ```
 
-# Check Target Price
+## Check Target Price
 
 ```python
 start2 = dt.datetime(2023,1,2) #pegando uma janela de 3 meses
