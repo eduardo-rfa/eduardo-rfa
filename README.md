@@ -21,5 +21,10 @@ Estudante de Ciências Econômicas na UFRJ e analista de Operações na Impactus
 - [Exposição, trade e construção da curva DI](https://docs.google.com/spreadsheets/d/1C3kOhTK0HFinVoogAO2xuLa_7nPJeP4H1UzGv__Vo-8/edit?usp=sharing)
 - [Precificação de LFT, NTN-B e NTN-F](https://docs.google.com/spreadsheets/d/14sCqEKYlEKQOLUqk0u-S4_VIGPfVnOpD/edit?usp=sharing&ouid=104193380774637208810&rtpof=true&sd=true)
 
+## Códigos em Python feitos na Impactus UFRJ
+- [Tamanhos usando Value-at-Risk e Avaliação de Volume](https://github.com/eduardo-rfa/eduardo-rfa/blob/main/C%C3%B3digos%20Python/tamanho-com-var.md)
+- [Monitoramento dos Stops e Target Price](https://github.com/eduardo-rfa/eduardo-rfa/blob/main/C%C3%B3digos%20Python/stops.md)
+- [Web Scraping Netshoes](https://github.com/eduardo-rfa/eduardo-rfa/blob/main/C%C3%B3digos%20Python/scraping-netshoes.md)
+
 ## E-mail para contato 
 - eduardorabelloalexandre@gmail.com
