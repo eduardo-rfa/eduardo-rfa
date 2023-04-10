@@ -1,4 +1,4 @@
-# Stops, Target Price e Avaliação de Volume
+# Stops e Target Price
 
 Esse código define Stop Loss e Stop Gain de ativos, com o intuito de realizar parte da posição em caso de perdas ou ganhos.
 
