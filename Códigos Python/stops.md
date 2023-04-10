@@ -4,8 +4,6 @@ Esse código define Stop Loss e Stop Gain de ativos, com o intuito de realizar p
 
 Inicialmente, definimos o Stop com base no Value-at-Risk e na volatilidade do ativo e, posteriormente, monitoramos diariamente os stops com base nos retornos de cada ativo.
 
-Além disso, estabelecemos uma avaliação de volume, de modo a verificar o volume máximo do ativo que pode ser negociado no dia. Como trabalhamos com um fundo fictício, é importante estabelecer limites de volume para negociação. No nosso caso, o limite corresponde a 40% da média do volume do ativo negociado nos últimos 20 dias.
-
 Posteriormente, encerramos o código com a definição dos Target Prices (preços-alvo), baseados na volatilidade de cada ativo.
 
 Obs.: código desenvolvido no Google Colab
